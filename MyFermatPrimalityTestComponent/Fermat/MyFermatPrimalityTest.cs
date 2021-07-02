@@ -78,6 +78,6 @@ namespace Fermat
 
             return true;
         }
-        //https://www.matematiksel.org/carmicheal-sayilari/
+       
     }
 }
