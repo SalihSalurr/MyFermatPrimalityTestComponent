@@ -1,0 +1,10 @@
+C:\Users\Salih\Desktop\Fermat\Fermat\bin\Debug\Fermat.exe.config
+C:\Users\Salih\Desktop\Fermat\Fermat\bin\Debug\Fermat.exe
+C:\Users\Salih\Desktop\Fermat\Fermat\bin\Debug\Fermat.pdb
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.csprojAssemblyReference.cache
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.Properties.Resources.resources
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.csproj.GenerateResource.cache
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.exe
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.pdb
+C:\Users\Salih\Desktop\Fermat\Fermat\obj\Debug\Fermat.Form1.resources
